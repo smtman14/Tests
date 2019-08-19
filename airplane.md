@@ -7,3 +7,4 @@ Here are the instructions for making a paper airplane.
 1. Fold the paper in half along the seam created in step one.  
 1. fold each of the long edges of the paper out so that the edge of the paper are at the middle seam.
 1. Slightly unfold the outer edge to make wings.
+1. toss the plane
