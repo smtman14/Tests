@@ -9,3 +9,4 @@ Here are the instructions for making a paper airplane.
 1. Slightly unfold the outer edge to make wings.
 1. toss the plane.  
 1. measure how far it goes.
+1. That's the end!
